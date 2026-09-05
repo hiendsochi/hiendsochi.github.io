@@ -288,5 +288,10 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-body, .wrapper-masthead, .container, .main, article, footer, .wrapper-footer {
-    background-color: #fbf9f3
+* {
+  background-color: #fbf9f3 !important;
+  color: #111111 !important;
+}
+a {
+  color: #4183C4 !important;
+}
